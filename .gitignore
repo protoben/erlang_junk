@@ -1,0 +1,5 @@
+# vim
+.*.sw?
+
+# erlang objects
+*.beam
